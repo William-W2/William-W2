@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm William
 
-<!--
-**William-W2/William-W2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm starting my journey in software development and building my skills step by step.
 
-Here are some ideas to get you started:
+### 🎯 Currently Learning
+- Python
+- Git & GitHub
+- Basic data structures and algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools & Tech
+- Languages: Python
+- Tools: Git, VS Code
+
+### 📌 Current Focus
+- Writing clean and readable code
+- Building small but complete projects
+- Documenting what I learn
+
+### 📫 Contact
+- Email: wangzhe1011william@outlook.com
